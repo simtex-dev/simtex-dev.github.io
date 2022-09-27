@@ -2,7 +2,7 @@ domain: simtex-dev.github.io
 url: https://simtex-dev.github.io
 baseurl: /simtex-dev.github.io/
 
-theme: minimal
+theme: minima
 
 title: "Simtex"
 layout: page
